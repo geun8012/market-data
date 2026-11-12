@@ -1,5 +1,5 @@
 {
-  "fetched_at_kst": "2026-11-12 22:41:12",
+  "fetched_at_kst": "2026-11-12 22:46:03",
   "note": "close = 조회 시점 가격 (장중 조회=현재가, 15:30~15:40 조회=정규장 종가, 15:40 이후=NXT 애프터마켓 섞일 수 있음). change_rate = 전일 정규장 종가 대비",
   "prices": {
     "KOSPI": {
@@ -41,14 +41,27 @@
       "naver_name": "코스피 200",
       "source": "네이버 금융 (KPI200)"
     },
+    "KOSPI200F": {
+      "name": "코스피200선물",
+      "group": "지수",
+      "traded_at": "2026-11-12T15:34:59+09:00",
+      "market_status": "CLOSE",
+      "close": 827.5,
+      "change": -9.05,
+      "change_rate": -1.08,
+      "after_hours_session": null,
+      "after_hours_price": null,
+      "naver_name": "코스피 200 선물",
+      "source": "네이버 금융 (FUT)"
+    },
     "USDKRW": {
       "name": "원달러환율",
       "group": "지수",
-      "traded_at": "2026-11-12T22:41:10+09:00",
+      "traded_at": "2026-11-12T22:45:54+09:00",
       "market_status": null,
-      "close": 1333.58,
-      "change": -8.33,
-      "change_rate": -0.62,
+      "close": 1333.24,
+      "change": -8.67,
+      "change_rate": -0.65,
       "after_hours_session": null,
       "after_hours_price": null,
       "naver_name": null,
