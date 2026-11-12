@@ -1,69 +1,83 @@
 {
-  "fetched_at_kst": "2026-11-12 21:32:54",
-  "note": "trade_date의 정규장 종가. 등락률은 직전 거래일 종가 대비로 직접 계산",
+  "fetched_at_kst": "2026-11-12 21:34:16",
+  "note": "close = KRX 정규장 종가, after_hours_price = 장 마감 후 시간외/NXT 가격",
   "prices": {
     "005930": {
       "name": "삼성전자",
-      "trade_date": "2026-11-12",
+      "traded_at": "2026-11-12T20:20:21+09:00",
+      "market_status": "CLOSE",
       "close": 206500,
-      "prev_close": 208000,
-      "change": -1500,
-      "change_rate": -0.72,
-      "source": "네이버 금융 일봉"
+      "change": 500,
+      "change_rate": 0.24,
+      "after_hours_session": "AFTER_MARKET",
+      "after_hours_price": 206500,
+      "source": "네이버 금융 (KRX 정규장)"
     },
     "005880": {
       "name": "대한해운",
-      "trade_date": "2026-11-12",
+      "traded_at": "2026-11-12T20:20:21+09:00",
+      "market_status": "CLOSE",
       "close": 1898,
-      "prev_close": 1899,
-      "change": -1,
-      "change_rate": -0.05,
-      "source": "네이버 금융 일봉"
+      "change": 6,
+      "change_rate": 0.32,
+      "after_hours_session": null,
+      "after_hours_price": null,
+      "source": "네이버 금융 (KRX 정규장)"
     },
     "042660": {
       "name": "한화오션",
-      "trade_date": "2026-11-12",
+      "traded_at": "2026-11-12T20:20:24+09:00",
+      "market_status": "CLOSE",
       "close": 47800,
-      "prev_close": 48850,
-      "change": -1050,
-      "change_rate": -2.15,
-      "source": "네이버 금융 일봉"
+      "change": -550,
+      "change_rate": -1.14,
+      "after_hours_session": "AFTER_MARKET",
+      "after_hours_price": 47750,
+      "source": "네이버 금융 (KRX 정규장)"
     },
     "010120": {
       "name": "LS ELECTRIC",
-      "trade_date": "2026-11-12",
+      "traded_at": "2026-11-12T20:20:19+09:00",
+      "market_status": "CLOSE",
       "close": 122800,
-      "prev_close": 124300,
-      "change": -1500,
-      "change_rate": -1.21,
-      "source": "네이버 금융 일봉"
+      "change": 900,
+      "change_rate": 0.74,
+      "after_hours_session": "AFTER_MARKET",
+      "after_hours_price": 122700,
+      "source": "네이버 금융 (KRX 정규장)"
     },
     "034020": {
       "name": "두산에너빌리티",
-      "trade_date": "2026-11-12",
+      "traded_at": "2026-11-12T20:20:22+09:00",
+      "market_status": "CLOSE",
       "close": 46650,
-      "prev_close": 47900,
-      "change": -1250,
-      "change_rate": -2.61,
-      "source": "네이버 금융 일봉"
+      "change": -700,
+      "change_rate": -1.48,
+      "after_hours_session": "AFTER_MARKET",
+      "after_hours_price": 46700,
+      "source": "네이버 금융 (KRX 정규장)"
     },
     "010140": {
       "name": "삼성중공업",
-      "trade_date": "2026-11-12",
+      "traded_at": "2026-11-12T20:20:21+09:00",
+      "market_status": "CLOSE",
       "close": 16560,
-      "prev_close": 16520,
-      "change": 40,
-      "change_rate": 0.24,
-      "source": "네이버 금융 일봉"
+      "change": 70,
+      "change_rate": 0.42,
+      "after_hours_session": "AFTER_MARKET",
+      "after_hours_price": 16560,
+      "source": "네이버 금융 (KRX 정규장)"
     },
     "336260": {
       "name": "두산퓨얼셀",
-      "trade_date": "2026-11-12",
+      "traded_at": "2026-11-12T20:20:23+09:00",
+      "market_status": "CLOSE",
       "close": 28350,
-      "prev_close": 29900,
-      "change": -1550,
-      "change_rate": -5.18,
-      "source": "네이버 금융 일봉"
+      "change": -1100,
+      "change_rate": -3.74,
+      "after_hours_session": "AFTER_MARKET",
+      "after_hours_price": 28350,
+      "source": "네이버 금융 (KRX 정규장)"
     }
   },
   "errors": {}
