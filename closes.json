@@ -1,6 +1,6 @@
 {
-  "fetched_at_kst": "2026-11-12 21:38:23",
-  "note": "close = KRX 정규장 종가, after_hours_price = 장 마감 후 시간외/NXT 가격",
+  "fetched_at_kst": "2026-11-12 21:47:08",
+  "note": "close = 조회 시점 가격 (장중 조회=현재가, 15:30~15:40 조회=정규장 종가, 15:40 이후=NXT 애프터마켓 섞일 수 있음). change_rate = 전일 정규장 종가 대비",
   "prices": {
     "005930": {
       "name": "삼성전자",
@@ -11,7 +11,7 @@
       "change_rate": 0.24,
       "after_hours_session": "AFTER_MARKET",
       "after_hours_price": 206500,
-      "source": "네이버 금융 (KRX 정규장)"
+      "source": "네이버 금융"
     },
     "005880": {
       "name": "대한해운",
@@ -22,7 +22,7 @@
       "change_rate": 0.32,
       "after_hours_session": null,
       "after_hours_price": null,
-      "source": "네이버 금융 (KRX 정규장)"
+      "source": "네이버 금융"
     },
     "042660": {
       "name": "한화오션",
@@ -33,7 +33,7 @@
       "change_rate": -1.14,
       "after_hours_session": "AFTER_MARKET",
       "after_hours_price": 47750,
-      "source": "네이버 금융 (KRX 정규장)"
+      "source": "네이버 금융"
     },
     "010120": {
       "name": "LS ELECTRIC",
@@ -44,7 +44,7 @@
       "change_rate": 0.74,
       "after_hours_session": "AFTER_MARKET",
       "after_hours_price": 122700,
-      "source": "네이버 금융 (KRX 정규장)"
+      "source": "네이버 금융"
     },
     "034020": {
       "name": "두산에너빌리티",
@@ -55,7 +55,7 @@
       "change_rate": -1.48,
       "after_hours_session": "AFTER_MARKET",
       "after_hours_price": 46700,
-      "source": "네이버 금융 (KRX 정규장)"
+      "source": "네이버 금융"
     },
     "010140": {
       "name": "삼성중공업",
@@ -66,7 +66,7 @@
       "change_rate": 0.42,
       "after_hours_session": "AFTER_MARKET",
       "after_hours_price": 16560,
-      "source": "네이버 금융 (KRX 정규장)"
+      "source": "네이버 금융"
     },
     "336260": {
       "name": "두산퓨얼셀",
@@ -77,7 +77,7 @@
       "change_rate": -3.74,
       "after_hours_session": "AFTER_MARKET",
       "after_hours_price": 28350,
-      "source": "네이버 금융 (KRX 정규장)"
+      "source": "네이버 금융"
     }
   },
   "errors": {}
