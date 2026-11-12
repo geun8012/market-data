@@ -1,0 +1,70 @@
+{
+  "fetched_at_kst": "2026-11-12 21:31:45",
+  "note": "trade_date의 정규장 종가. 등락률은 직전 거래일 종가 대비로 직접 계산",
+  "prices": {
+    "005930": {
+      "name": "삼성전자",
+      "trade_date": "2026-11-12",
+      "close": 206500,
+      "prev_close": 208000,
+      "change": -1500,
+      "change_rate": -0.72,
+      "source": "네이버 금융 일봉"
+    },
+    "005880": {
+      "name": "대한해운",
+      "trade_date": "2026-11-12",
+      "close": 1898,
+      "prev_close": 1899,
+      "change": -1,
+      "change_rate": -0.05,
+      "source": "네이버 금융 일봉"
+    },
+    "042660": {
+      "name": "한화오션",
+      "trade_date": "2026-11-12",
+      "close": 47800,
+      "prev_close": 48850,
+      "change": -1050,
+      "change_rate": -2.15,
+      "source": "네이버 금융 일봉"
+    },
+    "010120": {
+      "name": "LS ELECTRIC",
+      "trade_date": "2026-11-12",
+      "close": 122800,
+      "prev_close": 124300,
+      "change": -1500,
+      "change_rate": -1.21,
+      "source": "네이버 금융 일봉"
+    },
+    "034020": {
+      "name": "두산에너빌리티",
+      "trade_date": "2026-11-12",
+      "close": 46650,
+      "prev_close": 47900,
+      "change": -1250,
+      "change_rate": -2.61,
+      "source": "네이버 금융 일봉"
+    },
+    "010140": {
+      "name": "삼성중공업",
+      "trade_date": "2026-11-12",
+      "close": 16560,
+      "prev_close": 16520,
+      "change": 40,
+      "change_rate": 0.24,
+      "source": "네이버 금융 일봉"
+    },
+    "336260": {
+      "name": "두산퓨얼셀",
+      "trade_date": "2026-11-12",
+      "close": 28350,
+      "prev_close": 29900,
+      "change": -1550,
+      "change_rate": -5.18,
+      "source": "네이버 금융 일봉"
+    }
+  },
+  "errors": {}
+}
