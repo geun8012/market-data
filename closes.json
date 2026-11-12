@@ -1,5 +1,5 @@
 {
-  "fetched_at_kst": "2026-11-12 22:46:03",
+  "fetched_at_kst": "2026-11-12 22:46:26",
   "note": "close = 조회 시점 가격 (장중 조회=현재가, 15:30~15:40 조회=정규장 종가, 15:40 이후=NXT 애프터마켓 섞일 수 있음). change_rate = 전일 정규장 종가 대비",
   "prices": {
     "KOSPI": {
@@ -57,10 +57,10 @@
     "USDKRW": {
       "name": "원달러환율",
       "group": "지수",
-      "traded_at": "2026-11-12T22:45:54+09:00",
+      "traded_at": "2026-11-12T22:46:22+09:00",
       "market_status": null,
-      "close": 1333.24,
-      "change": -8.67,
+      "close": 1333.18,
+      "change": -8.73,
       "change_rate": -0.65,
       "after_hours_session": null,
       "after_hours_price": null,
