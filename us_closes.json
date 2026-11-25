@@ -1,5 +1,5 @@
 {
-  "fetched_at_kst": "2026-11-26 08:35:01",
+  "fetched_at_kst": "2026-11-26 08:40:01",
   "note": "price = 조회 시점의 정규장 가격 (장 마감 후 조회 = 정규장 종가). ext_price = 프리/애프터마켓 가격. change_rate = 직전 정규장 종가 대비",
   "prices": {
     "^IXIC": {
@@ -96,10 +96,10 @@
     "NQ=F": {
       "name": "나스닥100선물",
       "group": "지수",
-      "price": 26055.0,
-      "change": -220.75,
-      "change_rate": -0.84,
-      "traded_at": "2026-11-26T08:25:02+09:00",
+      "price": 26048.75,
+      "change": -227.0,
+      "change_rate": -0.86,
+      "traded_at": "2026-11-26T08:30:03+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
@@ -109,10 +109,10 @@
     "ES=F": {
       "name": "S&P500선물",
       "group": "지수",
-      "price": 7199.5,
-      "change": -18.0,
-      "change_rate": -0.25,
-      "traded_at": "2026-11-26T08:25:02+09:00",
+      "price": 7198.0,
+      "change": -19.5,
+      "change_rate": -0.27,
+      "traded_at": "2026-11-26T08:29:56+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
@@ -148,10 +148,10 @@
     "KRW=X": {
       "name": "원달러환율",
       "group": "지수",
-      "price": 1344.02,
-      "change": 3.0,
+      "price": 1343.91,
+      "change": 2.89,
       "change_rate": 0.22,
-      "traded_at": "2026-11-26T08:34:52+09:00",
+      "traded_at": "2026-11-26T08:40:04+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
@@ -161,10 +161,10 @@
     "CL=F": {
       "name": "WTI유가",
       "group": "지수",
-      "price": 84.01,
-      "change": 1.96,
-      "change_rate": 2.39,
-      "traded_at": "2026-11-26T08:24:41+09:00",
+      "price": 84.07,
+      "change": 2.02,
+      "change_rate": 2.46,
+      "traded_at": "2026-11-26T08:29:39+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
@@ -187,10 +187,10 @@
     "GC=F": {
       "name": "금",
       "group": "지수",
-      "price": 3605.8,
-      "change": 43.9001,
-      "change_rate": 1.23,
-      "traded_at": "2026-11-26T08:25:06+09:00",
+      "price": 3598.3,
+      "change": 36.4001,
+      "change_rate": 1.02,
+      "traded_at": "2026-11-26T08:29:53+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
@@ -200,10 +200,10 @@
     "BTC-USD": {
       "name": "비트코인",
       "group": "지수",
-      "price": 60167.5,
-      "change": 419.7344,
-      "change_rate": 0.7,
-      "traded_at": "2026-11-26T08:35:01+09:00",
+      "price": 60269.39,
+      "change": 521.6244,
+      "change_rate": 0.87,
+      "traded_at": "2026-11-26T08:39:53+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
@@ -232,7 +232,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 163.51,
+      "ext_price": 163.9,
       "naver_name": "팔란티어 테크놀로지스",
       "source": "네이버 (PLTR.O)"
     },
@@ -245,7 +245,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 150.1,
+      "ext_price": 150.24,
       "naver_name": "엔비디아",
       "source": "네이버 (NVDA.O)"
     },
@@ -258,7 +258,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 127.66,
+      "ext_price": 127.91,
       "naver_name": "스페이스X",
       "source": "네이버 (SPCX.O)"
     },
@@ -271,7 +271,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 104.85,
+      "ext_price": 105.09,
       "naver_name": "오라클",
       "source": "네이버 (ORCL.K)"
     },
@@ -284,7 +284,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 59.23,
+      "ext_price": 59.21,
       "naver_name": "넷플릭스",
       "source": "네이버 (NFLX.O)"
     },
@@ -310,7 +310,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 42.85,
+      "ext_price": 42.81,
       "naver_name": "코어위브",
       "source": "네이버 (CRWV.O)"
     },
@@ -323,7 +323,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 13.68,
+      "ext_price": 13.72,
       "naver_name": "GraniteShares 2x Long NVDA Daily ETF",
       "source": "네이버 (NVDL.O)"
     },
@@ -336,7 +336,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 2.64,
+      "ext_price": 2.63,
       "naver_name": "리커젼 파마슈티컬스",
       "source": "네이버 (RXRX.O)"
     },
@@ -349,7 +349,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 6.73,
+      "ext_price": 6.8,
       "naver_name": "GraniteShares 2x Long MRVL Daily ETF",
       "source": "네이버 (MVLL.O)"
     },
@@ -401,7 +401,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 300.5,
+      "ext_price": 300.87,
       "naver_name": "브로드컴",
       "source": "네이버 (AVGO.O)"
     },
@@ -414,7 +414,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 130.46,
+      "ext_price": 130.78,
       "naver_name": "마벨 테크놀로지 그룹",
       "source": "네이버 (MRVL.O)"
     },
@@ -427,7 +427,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 54.2,
+      "ext_price": 54.26,
       "naver_name": "인텔",
       "source": "네이버 (INTC.O)"
     },
@@ -440,7 +440,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 354.9,
+      "ext_price": 354.95,
       "naver_name": "애플",
       "source": "네이버 (AAPL.O)"
     },
@@ -466,7 +466,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 245.51,
+      "ext_price": 245.65,
       "naver_name": "아마존닷컴",
       "source": "네이버 (AMZN.O)"
     },
@@ -479,7 +479,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 273.58,
+      "ext_price": 273.88,
       "naver_name": "알파벳 Class A",
       "source": "네이버 (GOOGL.O)"
     },
@@ -492,7 +492,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 607.5,
+      "ext_price": 608.0,
       "naver_name": "메타",
       "source": "네이버 (META.O)"
     },
@@ -505,7 +505,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 380.36,
+      "ext_price": 380.65,
       "naver_name": "테슬라",
       "source": "네이버 (TSLA.O)"
     },
@@ -518,7 +518,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 406.5,
+      "ext_price": 407.46,
       "naver_name": "AMD(어드밴스드 마이크로 디바이시스)",
       "source": "네이버 (AMD.O)"
     },
@@ -531,7 +531,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 602.88,
+      "ext_price": 603.8,
       "naver_name": "마이크론 테크놀로지",
       "source": "네이버 (MU.O)"
     },
@@ -557,7 +557,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 343.3,
+      "ext_price": 343.6,
       "naver_name": "TSMC ADR",
       "source": "네이버 (TSM)"
     },
@@ -596,7 +596,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 23.31,
+      "ext_price": 23.38,
       "naver_name": "슈퍼 마이크로 컴퓨터",
       "source": "네이버 (SMCI.O)"
     },
@@ -622,7 +622,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 174.15,
+      "ext_price": 174.35,
       "naver_name": "버티브 홀딩스",
       "source": "네이버 (VRT)"
     },
@@ -661,7 +661,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 92.35,
+      "ext_price": 92.32,
       "naver_name": "서비스나우",
       "source": "네이버 (NOW)"
     },
@@ -674,7 +674,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 268.52,
+      "ext_price": 268.0,
       "naver_name": "스노우플레이크",
       "source": "네이버 (SNOW.K)"
     },
@@ -687,7 +687,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 208.75,
+      "ext_price": 208.5,
       "naver_name": "크라우드 스트라이크 홀딩스",
       "source": "네이버 (CRWD.O)"
     },
@@ -726,7 +726,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 7.01,
+      "ext_price": 7.04,
       "naver_name": "디 웨이브 퀀텀",
       "source": "네이버 (QBTS.O)"
     },
@@ -739,7 +739,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 47.27,
+      "ext_price": 47.31,
       "naver_name": "로켓 랩",
       "source": "네이버 (RKLB.O)"
     },
@@ -752,7 +752,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 26.32,
+      "ext_price": 26.46,
       "naver_name": "AST 스페이스모바일",
       "source": "네이버 (ASTS.O)"
     },
@@ -765,7 +765,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 3.25,
+      "ext_price": 3.26,
       "naver_name": "뉴스케일 파워",
       "source": "네이버 (SMR)"
     },
@@ -778,7 +778,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 19.61,
+      "ext_price": 19.63,
       "naver_name": "오클로",
       "source": "네이버 (OKLO.K)"
     },
@@ -869,7 +869,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 105.46,
+      "ext_price": 106.0,
       "naver_name": "코인베이스 글로벌",
       "source": "네이버 (COIN.O)"
     },
@@ -882,7 +882,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 80.7,
+      "ext_price": 81.0,
       "naver_name": "스트래티지",
       "source": "네이버 (MSTR.O)"
     },
@@ -895,7 +895,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 66.55,
+      "ext_price": 66.73,
       "naver_name": "로빈후드",
       "source": "네이버 (HOOD.O)"
     },
@@ -908,7 +908,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 13.1,
+      "ext_price": 13.08,
       "naver_name": "소파이 테크놀로지스",
       "source": "네이버 (SOFI.O)"
     },
@@ -1051,7 +1051,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 633.08,
+      "ext_price": 633.71,
       "naver_name": "Invesco QQQ Trust  Series 1",
       "source": "네이버 (QQQ.O)"
     },
@@ -1064,7 +1064,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 717.23,
+      "ext_price": 717.37,
       "naver_name": "State Street SPDR S&P 500 ETF Trust",
       "source": "네이버 (SPY)"
     },
@@ -1077,7 +1077,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 127.8,
+      "ext_price": 128.0,
       "naver_name": "iShares Semiconductor ETF",
       "source": "네이버 (SOXX.O)"
     },
@@ -1090,7 +1090,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 45.09,
+      "ext_price": 45.25,
       "naver_name": "ProShares UltraPro QQQ",
       "source": "네이버 (TQQQ.O)"
     },
@@ -1103,7 +1103,7 @@
       "traded_at": "2026-11-25T16:00:00-05:00",
       "market_status": "CLOSE",
       "ext_session": "AFTER_MARKET",
-      "ext_price": 31.88,
+      "ext_price": 32.12,
       "naver_name": "Direxion Daily Semiconductor Bull 3X ETF",
       "source": "네이버 (SOXL.K)"
     }
