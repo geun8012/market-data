@@ -1,5 +1,5 @@
 {
-  "fetched_at_kst": "2026-11-27 07:55:01",
+  "fetched_at_kst": "2026-11-27 08:00:01",
   "note": "price = 조회 시점의 정규장 가격 (장 마감 후 조회 = 정규장 종가). ext_price = 프리/애프터마켓 가격. change_rate = 직전 정규장 종가 대비",
   "prices": {
     "^IXIC": {
@@ -135,10 +135,10 @@
     "DX-Y.NYB": {
       "name": "달러인덱스",
       "group": "지수",
-      "price": 103.755,
-      "change": 0.085,
+      "price": 103.757,
+      "change": 0.087,
       "change_rate": 0.08,
-      "traded_at": "2026-11-27T07:44:53+09:00",
+      "traded_at": "2026-11-27T07:50:03+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
@@ -148,10 +148,10 @@
     "KRW=X": {
       "name": "원달러환율",
       "group": "지수",
-      "price": 1343.06,
-      "change": 0.41,
+      "price": 1343.02,
+      "change": 0.37,
       "change_rate": 0.03,
-      "traded_at": "2026-11-27T07:54:58+09:00",
+      "traded_at": "2026-11-27T08:00:02+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
@@ -200,10 +200,10 @@
     "BTC-USD": {
       "name": "비트코인",
       "group": "지수",
-      "price": 60472.55,
-      "change": 94.3508,
-      "change_rate": 0.16,
-      "traded_at": "2026-11-27T07:55:03+09:00",
+      "price": 60467.16,
+      "change": 88.9608,
+      "change_rate": 0.15,
+      "traded_at": "2026-11-27T07:59:59+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
