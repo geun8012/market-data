@@ -1,5 +1,5 @@
 {
-  "fetched_at_kst": "2026-11-28 09:40:01",
+  "fetched_at_kst": "2026-11-28 09:45:01",
   "note": "price = 조회 시점의 정규장 가격 (장 마감 후 조회 = 정규장 종가). ext_price = 프리/애프터마켓 가격. change_rate = 직전 정규장 종가 대비",
   "prices": {
     "^IXIC": {
@@ -200,10 +200,10 @@
     "BTC-USD": {
       "name": "비트코인",
       "group": "지수",
-      "price": 59899.12,
-      "change": -595.5909,
-      "change_rate": -0.98,
-      "traded_at": "2026-11-28T09:39:54+09:00",
+      "price": 59921.07,
+      "change": -573.6409,
+      "change_rate": -0.95,
+      "traded_at": "2026-11-28T09:45:00+09:00",
       "market_status": null,
       "ext_session": null,
       "ext_price": null,
